@@ -1,4 +1,3 @@
-# https-raw.githubusercontent.com-chwlibre-iptv-master-chot.m3u
 #EXTINF:0,ES: TVE 24 
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5410.m3u8 
 #EXTINF:0,ES: TVE 1 
